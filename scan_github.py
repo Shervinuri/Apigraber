@@ -25,6 +25,7 @@ def print_banner():
 """
     print(banner)
 
+GITHUB_TOKEN = "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"
 
 def validate_github_token() -> bool:
     """验证GitHub Token是否存在"""
