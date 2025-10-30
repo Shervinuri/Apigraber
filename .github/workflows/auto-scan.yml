@@ -27,7 +27,7 @@ on:
       max_repos:
         description: '最大扫描仓库数'
         required: false
-        default: '50'
+        default: '100'
         type: string
 
 # 添加权限设置
